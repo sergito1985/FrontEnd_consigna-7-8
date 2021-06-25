@@ -1,0 +1,81 @@
+#foto_perfil {
+            display: block;
+            margin: auto;
+            width: 200px;
+            }
+header {
+        background-image: url(/IMAGENES/fondo2.png);
+        background-color: rgb(19, 20, 20);
+        background-repeat:no-repeat;
+        background-position: center 0px;
+        background-attachment: fixed; 
+        background-size: cover;
+        height:100vh;
+        text-align-last: center;
+        width: 100;height: 1440;
+        }
+
+.titulo {
+    color: aquamarine;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Abril Fatface', cursive;
+    line-height: 80px;
+    
+}
+.titulo2 {
+    color: aquamarine;
+    grid-column: span;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Kirang Haerang', cursive;
+    line-height: 70px;
+    
+}
+.subtitulos {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Bree Serif', serif;
+    line-height: 35px;
+    text-transform: uppercase;
+    background-color:lightseagreen;
+    background-origin: border-box;
+    
+}   
+.cajas {
+    margin-left: 150px;
+    margin-right: 150px;
+
+}   
+.futer{
+    text-align: center;
+    margin-bottom: 10px;
+        }
+
+.p{
+    text-decoration:none;
+    font-size: 170%;
+    line-height: 30px;
+    }
+
+.iconos{
+    background-color: rgb(168, 203, 255);
+    font-size: 130%;
+    line-height: 30px;
+        }
+ul{
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+    line-height: 15px;
+    font-weight: bold;
+    }
+.devolucion {
+        background-color: rgb(1, 31, 70);
+        color: crimson;
+        font-size: 150%;
+        line-height: 5px;
+        text-align: right;
+        display: block; 
+        background-origin: border-box;  
+            }
